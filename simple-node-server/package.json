@@ -1,0 +1,15 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js server listening on port 8001.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "author": "",
+  "license": "ISC"
+}
